@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	DRR187559_1	/home/divya/wgs/results/fastqc_raw/DRR187559_1_fastqc.zip
+FastQC	all_sections	DRR187559_2	/home/divya/wgs/results/fastqc_raw/DRR187559_2_fastqc.zip
+FastQC	all_sections	DRR187559_R1_fastp_paired	/home/divya/wgs/results/fastqc_posttrim/DRR187559_R1_fastp_paired_fastqc.zip
+FastQC	all_sections	DRR187559_R2_fastp_paired	/home/divya/wgs/results/fastqc_posttrim/DRR187559_R2_fastp_paired_fastqc.zip

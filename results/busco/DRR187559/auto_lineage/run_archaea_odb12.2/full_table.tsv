@@ -1,0 +1,200 @@
+# BUSCO version is: 6.1.0 
+# The lineage dataset is: archaea_odb12.2 (Creation date: 2026-05-22, number of genomes: 157, number of BUSCOs: 195)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+314at2157	Missing
+1798at2157	Missing
+1912at2157	Missing
+4116at2157	Missing
+4696at2157	Duplicated	k141_58	5479	6480	+	324.8	296	https://v12-2.orthodb.org/?query=4696at2157	Ornithine carbamoyltransferase
+4696at2157	Duplicated	k141_15	161758	162768	+	334.9	295	https://v12-2.orthodb.org/?query=4696at2157	Ornithine carbamoyltransferase
+5615at2157	Missing
+5619at2157	Missing
+5670at2157	Missing
+5718at2157	Missing
+5866at2157	Missing
+5877at2157	Complete	k141_5	13047	14252	+	455.1	375	https://v12-2.orthodb.org/?query=5877at2157	Argininosuccinate synthase
+5935at2157	Missing
+5987at2157	Missing
+6075at2157	Missing
+6113at2157	Complete	k141_8	84197	82806	-	464.4	436	https://v12-2.orthodb.org/?query=6113at2157	Glycyl-tRNA synthetase
+6121at2157	Missing
+6244at2157	Missing
+6290at2157	Fragmented	k141_42	33044	35125	+	385.3	533	https://v12-2.orthodb.org/?query=6290at2157	EF-2
+6295at2157	Missing
+6379at2157	Missing
+6533at2157	Missing
+6575at2157	Complete	k141_27	2783	3973	+	336.4	369	https://v12-2.orthodb.org/?query=6575at2157	Phosphoglycerate kinase
+6605at2157	Complete	k141_15	70605	69577	-	220.4	230	https://v12-2.orthodb.org/?query=6605at2157	PurM-like, C-terminal domain
+6874at2157	Complete	k141_39	49978	50427	+	221.9	149	https://v12-2.orthodb.org/?query=6874at2157	Nucleoside diphosphate kinase
+7000at2157	Missing
+7144at2157	Missing
+7146at2157	Missing
+7259at2157	Missing
+7316at2157	Missing
+7375at2157	Missing
+7378at2157	Missing
+7506at2157	Complete	k141_8	35429	38059	+	522.9	792	https://v12-2.orthodb.org/?query=7506at2157	Alanine-tRNA ligase, class IIc
+7529at2157	Missing
+7620at2157	Missing
+7668at2157	Missing
+7751at2157	Missing
+7792at2157	Missing
+7793at2157	Missing
+7798at2157	Missing
+7870at2157	Missing
+7902at2157	Missing
+7912at2157	Missing
+7927at2157	Missing
+8183at2157	Missing
+8293at2157	Complete	k141_58	109770	110540	+	259.4	239	https://v12-2.orthodb.org/?query=8293at2157	Decaprenyl diphosphate synthase-like
+8389at2157	Missing
+8479at2157	Missing
+8493at2157	Complete	k141_34	60397	61371	+	469.2	315	https://v12-2.orthodb.org/?query=8493at2157	Delta-aminolevulinic acid dehydratase
+8643at2157	Missing
+8644at2157	Missing
+8656at2157	Missing
+8658at2157	Fragmented	k141_20	3602	1905	-	97.4	273	https://v12-2.orthodb.org/?query=8658at2157	Replication factor C, large subunit
+8659at2157	Complete	k141_8	20733	21995	+	265.6	336	https://v12-2.orthodb.org/?query=8659at2157	Histidine-tRNA ligase
+8680at2157	Complete	k141_27	6506	7810	+	449.5	369	https://v12-2.orthodb.org/?query=8680at2157	Enolase
+8831at2157	Missing
+8842at2157	Complete	k141_42	20669	21091	+	121.7	132	https://v12-2.orthodb.org/?query=8842at2157	Large ribosomal subunit protein uL11, C-terminal
+8904at2157	Duplicated	k141_39	158010	156805	-	234.3	380	https://v12-2.orthodb.org/?query=8904at2157	Aspartate kinase
+8904at2157	Duplicated	k141_58	186237	184855	-	226.8	371	https://v12-2.orthodb.org/?query=8904at2157	Aspartate kinase
+9089at2157	Complete	k141_58	48042	48653	+	98.3	158	https://v12-2.orthodb.org/?query=9089at2157	Orotate phosphoribosyl transferase domain
+9126at2157	Missing
+9418at2157	Missing
+9465at2157	Missing
+9473at2157	Complete	k141_15	77480	76998	-	175.4	145	https://v12-2.orthodb.org/?query=9473at2157	PurE domain
+9593at2157	Missing
+9863at2157	Missing
+9883at2157	Complete	k141_22	11029	11922	+	215.4	228	https://v12-2.orthodb.org/?query=9883at2157	Ribosomal RNA adenine methylase transferase, N-terminal
+9887at2157	Missing
+10058at2157	Missing
+10073at2157	Missing
+10127at2157	Missing
+10348at2157	Missing
+10382at2157	Missing
+10429at2157	Missing
+10470at2157	Missing
+10536at2157	Complete	k141_58	53025	54224	+	209.3	333	https://v12-2.orthodb.org/?query=10536at2157	Flavoprotein
+10567at2157	Missing
+10698at2157	Missing
+10737at2157	Missing
+10899at2157	Missing
+10943at2157	Missing
+10981at2157	Complete	k141_61	93689	94966	+	254.5	380	https://v12-2.orthodb.org/?query=10981at2157	Hydroxymethylglutaryl-CoA reductase, class I/II
+11138at2157	Missing
+11309at2157	Missing
+11624at2157	Missing
+11877at2157	Missing
+12054at2157	Missing
+14397at2157	Missing
+15051at2157	Missing
+15212at2157	Missing
+15328at2157	Missing
+15447at2157	Missing
+17644at2157	Missing
+19001at2157	Complete	k141_45	24676	25596	+	194.6	293	https://v12-2.orthodb.org/?query=19001at2157	GHMP kinase, C-terminal domain
+19013at2157	Complete	k141_55	156835	157518	+	124.7	168	https://v12-2.orthodb.org/?query=19013at2157	ribose-5-phosphate isomerase activity
+23569at2157	Missing
+23689at2157	Missing
+24205at2157	Missing
+24971at2157	Missing
+25735at2157	Complete	k141_54	63656	62475	-	178.7	222	https://v12-2.orthodb.org/?query=25735at2157	GTP cyclohydrolase II
+25810at2157	Missing
+27149at2157	Missing
+27533at2157	Missing
+27944at2157	Missing
+27972at2157	Missing
+30537at2157	Missing
+30538at2157	Missing
+30559at2157	Missing
+30639at2157	Missing
+30658at2157	Missing
+30823at2157	Complete	k141_58	30971	33724	+	615.7	743	https://v12-2.orthodb.org/?query=30823at2157	Isoleucine-tRNA ligase
+30930at2157	Missing
+30955at2157	Missing
+30957at2157	Missing
+31129at2157	Missing
+31271at2157	Missing
+31300at2157	Missing
+31424at2157	Missing
+32941at2157	Missing
+33049at2157	Complete	k141_39	51222	52388	+	247.2	313	https://v12-2.orthodb.org/?query=33049at2157	Chorismate synthase
+33250at2157	Complete	k141_8	92573	93463	+	204.4	270	https://v12-2.orthodb.org/?query=33250at2157	Xylose isomerase-like, TIM barrel domain
+33582at2157	Missing
+33866at2157	Missing
+34207at2157	Missing
+35104at2157	Missing
+35866at2157	Complete	k141_58	124723	125640	+	137.1	232	https://v12-2.orthodb.org/?query=35866at2157	Dyskerin-like
+35908at2157	Missing
+36608at2157	Complete	k141_61	48107	47043	-	235.6	300	https://v12-2.orthodb.org/?query=36608at2157	Dihydroorotate dehydrogenase, class 2
+38155at2157	Missing
+38238at2157	Complete	k141_39	156741	155752	-	170.4	341	https://v12-2.orthodb.org/?query=38238at2157	Aspartate-semialdehyde dehydrogenase
+39019at2157	Missing
+39139at2157	Missing
+39189at2157	Missing
+39992at2157	Complete	k141_30	21701	22747	+	178.6	186	https://v12-2.orthodb.org/?query=39992at2157	Threonylcarbamoyl-AMP synthase, C-terminal domain
+43788at2157	Complete	k141_39	53488	54786	+	255.2	403	https://v12-2.orthodb.org/?query=43788at2157	3-phosphoshikimate 1-carboxyvinyltransferase
+44091at2157	Missing
+45138at2157	Missing
+45154at2157	Missing
+45195at2157	Missing
+45346at2157	Missing
+45383at2157	Missing
+45909at2157	Missing
+46081at2157	Missing
+52456at2157	Missing
+52479at2157	Missing
+52677at2157	Missing
+52769at2157	Complete	k141_30	9704	11314	+	670.3	482	https://v12-2.orthodb.org/?query=52769at2157	CTP synthase
+52849at2157	Complete	k141_58	83242	84609	+	373.1	405	https://v12-2.orthodb.org/?query=52849at2157	SRP54
+53273at2157	Missing
+55506at2157	Missing
+56356at2157	Missing
+60264at2157	Missing
+65493at2157	Missing
+65887at2157	Missing
+84504at2157	Missing
+84643at2157	Missing
+84794at2157	Missing
+84933at2157	Missing
+85118at2157	Complete	k141_8	142234	143154	+	148.3	198	https://v12-2.orthodb.org/?query=85118at2157	Ribonuclease Z/BN
+85381at2157	Missing
+85892at2157	Missing
+94124at2157	Missing
+115235at2157	Missing
+117390at2157	Missing
+129238at2157	Missing
+146558at2157	Complete	k141_15	67493	66246	-	384.2	419	https://v12-2.orthodb.org/?query=146558at2157	Phosphoribosylglycinamide synthetase, C-domain
+147673at2157	Missing
+204488at2157	Missing
+275101at2157	Missing
+295712at2157	Missing
+314984at2157	Missing
+371736at2157	Missing
+371754at2157	Missing
+371797at2157	Missing
+371812at2157	Missing
+371836at2157	Missing
+371856at2157	Complete	k141_22	7538	9511	+	309.2	445	https://v12-2.orthodb.org/?query=371856at2157	Methionyl-tRNA synthetase
+371863at2157	Missing
+371914at2157	Missing
+371959at2157	Missing
+371997at2157	Complete	k141_22	16916	17881	+	153.5	233	https://v12-2.orthodb.org/?query=371997at2157	Ribose-phosphate pyrophosphokinase
+372008at2157	Missing
+372011at2157	Missing
+372044at2157	Missing
+372073at2157	Missing
+372100at2157	Missing
+372102at2157	Complete	k141_45	41180	42841	+	368.6	560	https://v12-2.orthodb.org/?query=372102at2157	Arginyl tRNA synthetase N-terminal domain
+372108at2157	Missing
+372127at2157	Fragmented	k141_62	18769	19134	+	78.9	108	https://v12-2.orthodb.org/?query=372127at2157	Small ribosomal subunit protein uS13
+372134at2157	Complete	k141_8	74037	75383	+	247.1	348	https://v12-2.orthodb.org/?query=372134at2157	Methylthiotransferase
+372142at2157	Missing
+372177at2157	Missing
+372178at2157	Missing
+372188at2157	Complete	k141_58	81647	82897	+	267.5	267	https://v12-2.orthodb.org/?query=372188at2157	Signal-recognition particle receptor FtsY
+372247at2157	Complete	k141_52	14067	12784	-	525.4	411	https://v12-2.orthodb.org/?query=372247at2157	Adenylosuccinate synthetase
+372251at2157	Complete	k141_58	108102	108824	+	93.3	223	https://v12-2.orthodb.org/?query=372251at2157	Uridylate kinase
+372305at2157	Missing

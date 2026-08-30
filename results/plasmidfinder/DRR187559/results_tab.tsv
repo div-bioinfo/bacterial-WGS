@@ -1,0 +1,6 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+Inc18	rep16	99.87	744 / 744	k141_49 flag=0 multi=719.9048 len=25317	8838..9581	CDS6(pSJH101)	CP000737
+Rep1	rep22	99.9	1005 / 1005	k141_51 flag=0 multi=108.9753 len=4836	3657..4661	repB(pAMalpha1)	AF503772
+Rep3	rep5a	100.0	861 / 861	k141_49 flag=0 multi=719.9048 len=25317	10867..11727	repSAP001(pN315)	AP003139
+RepA_N	rep19	97.66	984 / 984	k141_49 flag=0 multi=719.9048 len=25317	7452..8412	rep(pN315)	AP003139
+Rep_trans	repUS43	100.0	1206 / 1206	k141_23 flag=0 multi=99.9563 len=99899	95904..97109	CDS12738(DOp1)	CP003584

@@ -1,0 +1,43 @@
+# Raw reads — regenerable from scripts/ + accession
+data/
+
+# Reference/lineage databases — large, downloadable, not project-specific
+busco_downloads/
+results/kraken_bracken/k2_standard_08gb/
+results/kraken_bracken/*.tar.gz
+
+# MEGAHIT scratch/intermediate k-mer files — only the final contigs matter
+results/megahit_assembly/*/intermediate_contigs/
+
+# BUSCO's per-run scratch (sequences, hmmer output, phylogenetic placement
+# working files) — keep only the summary tables (full_table.tsv,
+# short_summary.txt/json, missing_busco_list.tsv)
+results/busco/*/auto_lineage/*/busco_sequences/
+results/busco/*/auto_lineage/*/hmmer_output/
+results/busco/*/auto_lineage/*/sepp_tmp_files/
+results/busco/*/auto_lineage/*/placement_files/
+results/busco/*/prodigal_output/
+results/busco/*/logs/
+
+# Bakta's large/redundant output formats — .tsv, .gff3, .faa, .fna, .txt,
+# .png/.svg stay (small, informative); genbank/embl/json duplicate that
+# info in bulkier form
+results/bakta/*/*.gbff
+results/bakta/*/*.embl
+results/bakta/*/*.json
+
+# PlasmidFinder's BLAST XML scratch — results.txt/results_tab.tsv/*.fsa stay
+results/plasmidfinder/*/tmp/
+
+# Run logs — regenerable by re-running the scripts
+logs/
+
+# OS / editor / WSL artifacts
+*:Zone.Identifier
+.DS_Store
+*~
+__pycache__/
+*.pyc
+
+# conda env installs (keep the .yml specs, not the installed envs)
+envs/*/

@@ -1,0 +1,11 @@
+100.00	62	2	R	1	root
+ 96.77	60	0	R1	131567	  cellular organisms
+ 96.77	60	1	D	2	    Bacteria
+ 95.16	59	0	K	1783272	      Bacillati
+ 95.16	59	0	P	1239	        Bacillota
+ 95.16	59	1	C	91061	          Bacilli
+ 93.55	58	0	O	1385	            Caryophanales
+ 93.55	58	0	F	90964	              Staphylococcaceae
+ 93.55	58	14	G	1279	                Staphylococcus
+ 70.97	44	39	S	1280	                  Staphylococcus aureus
+  8.06	5	5	S1	869816	                    Staphylococcus aureus subsp. aureus JKD6159
